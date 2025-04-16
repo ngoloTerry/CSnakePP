@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/CSNAKEPP.dir/link.d CMakeFiles/CSNAKEPP.dir/main.cpp.o -o CSNAKEPP  /usr/lib/x86_64-linux-gnu/libSDL2.so
