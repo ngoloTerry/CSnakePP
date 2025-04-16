@@ -1,3 +1,0 @@
-/home/wearyore/Documents/prog/cpp/CSnakePP/build/CMakeFiles/CSNAKEPP.dir
-/home/wearyore/Documents/prog/cpp/CSnakePP/build/CMakeFiles/edit_cache.dir
-/home/wearyore/Documents/prog/cpp/CSnakePP/build/CMakeFiles/rebuild_cache.dir
